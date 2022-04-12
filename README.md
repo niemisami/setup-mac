@@ -109,6 +109,8 @@ sudo chmod 644 ~/.ssh/*.pub
 sudo chmod 600 ~/.ssh/known_hosts
 ```
 
+# VSCode
+- Enable settings sync
 
 # Manual setupping
 
