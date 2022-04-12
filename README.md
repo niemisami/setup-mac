@@ -96,8 +96,21 @@
   - Google Docs apps
   - vizbug
 
+## SSH
 
-# Setupping
+- Generate ssh keys or use existing files
+```
+mkdir -p ~/.ssh
+touch ~/.authorized_keys
+sudo chmod 700 ~/.ssh
+sudo chmod 600 ~/.ssh/authorized_keys
+sudo chmod 400 ~/.ssh/id_rsa*
+sudo chmod 644 ~/.ssh/*.pub
+sudo chmod 600 ~/.ssh/known_hosts
+```
+
+
+# Manual setupping
 
 - Swim through setup wizard
 - Go through basic system preferences and choose what seems natural
