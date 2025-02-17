@@ -55,6 +55,7 @@ Go through the list and modify.
 ### Manual installations
 - PASS PLUS Uploader
 - DaVinci Resolve
+- Toggl Track App
 
 ## TODO:
 
@@ -65,11 +66,8 @@ Go through the list and modify.
 - Mac maxfiles config
   - How to make permanent?
   - https://gist.github.com/tombigel/d503800a282fcadbee14b537735d202c
-- Code projects
+- Code projects 
 - Work projects
-- Vimdiff? https://gist.github.com/mattratleph/4026987
-- applescripts (start-working)
-- CDPATH (search from history)
 - ~/.zsh_history
 - Browser plugins
   - LastPass
