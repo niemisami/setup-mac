@@ -1,16 +1,20 @@
+# Updating Brewfile
+
+`brew bundle dump --force`
+
+Go through the list and modify.
+
 # Configurations and programs for my mac setup
 ### Programming
-- VSCode 
+- VSCode
 - Docker
-- VirtualBox
 - Android Studio
 #### Terminal
-- iTerm
+- ghostty
 - oh-my-zsh
   - zsh
-  - Themes https://github.com/romkatv/powerlevel10k
   - Git aliases
-- aws2 cli (https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
+- aws2 cli
 
 #### Brew
 - git
@@ -20,9 +24,7 @@
 - ffmpeg
 - gh (Github gh)
 - Java (for android)
-- VirtualBox
 - Android Studio
-- Vagrant
 - watchman (https://facebook.github.io/watchman/docs/install.html#buildinstall)
 - unzip
 - ncdu
@@ -30,19 +32,12 @@
 - tig
 
 ##### Nice to have
-- heroku
 - lazydocker
-- lazygit
 - terraform
-- CircleCI cli (https://circleci.com/docs/2.0/local-cli/#install-with-homebrew-macos)
-- kdiff3
-- youtube-dl
-- SourceTree
-  
+
 #### Node - global installs
 - nvm
 - expo-cli
-- tailwindcss-cli
 
 ### Misc
 - Chrome
@@ -51,25 +46,17 @@
 - Rectangle (window tiling) https://rectangleapp.com/
 - Dropbox
 - Spotify
-- Spotmenu
 - Toggle Desktop
-- Flowdock
 - Teams
-- Office
-- Photoshop
-- Lightroom
-- Acrobat
+- Office 365
 - Discord
-- CCleaner
+- Adobe products via Creative cloud
 
 ### Manual installations
-- Adobe products via Creative cloud
 - PASS PLUS Uploader
 - DaVinci Resolve
-- Wacom Tablet
-- Virtualbox
 
-## TODO: 
+## TODO:
 
 - Backup configs
   - vim
@@ -84,14 +71,11 @@
 - applescripts (start-working)
 - CDPATH (search from history)
 - ~/.zsh_history
-- VSCode plugins
 - Browser plugins
   - LastPass
   - Redux DevTools
   - React Developer Tools
   - GoFullPage - Full Page Screen Capture
-  - GoFullPage
-  - RevEye reverse image search
   - Testing Playground
   - Google Docs apps
   - vizbug
